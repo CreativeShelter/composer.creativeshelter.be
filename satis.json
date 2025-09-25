@@ -1,10 +1,10 @@
 {
-    "name": "CreativeShelter/composer.creativeshelter.be",
+    "name": "creative-shelter/composer.creativeshelter.be",
     "homepage": "https://composer.creativeshelter.be",
     "output-dir": "public",
     "repositories": [
-        { "type": "vcs", "url": "git@github.com:CreativeShelter/vat-information-sdk.creativeshelter.be.git" },
-        { "type": "vcs", "url": "git@github.com:CreativeShelter/hubspot-sdk.creativeshelter.be.git" }
+        { "type": "vcs", "url": "git@github.com:CreativeShelter/laravel-vat-information-sdk.git" },
+        { "type": "vcs", "url": "git@github.com:CreativeShelter/laravel-hubspot-sdk.git" }
     ],
     "archive": {
         "directory": "dist",
