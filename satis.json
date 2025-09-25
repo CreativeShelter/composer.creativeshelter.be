@@ -1,0 +1,14 @@
+{
+    "name": "CreativeShelter/composer.creativeshelter.be",
+    "homepage": "https://composer.creativeshelter.be",
+    "output-dir": "public",
+    "repositories": [
+        { "type": "vcs", "url": "git@github.com:CreativeShelter/vat-information-sdk.creativeshelter.be.git" },
+        { "type": "vcs", "url": "git@github.com:CreativeShelter/hubspot-sdk.creativeshelter.be.git" }
+    ],
+    "archive": {
+        "directory": "dist",
+        "skip-dev": false
+    },
+    "require-all": true
+}
