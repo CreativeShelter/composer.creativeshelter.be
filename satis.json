@@ -1,5 +1,5 @@
 {
-    "name": "creative-shelter/composer.creativeshelter.be",
+    "name": "creativeshelter/composer.creativeshelter.be",
     "homepage": "https://composer.creativeshelter.be",
     "output-dir": "public",
     "repositories": [
